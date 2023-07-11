@@ -1,0 +1,15 @@
+D:\Tugas Pemrog\pertemuan13\Latihanlist2\obj\Debug\net7.0\Latihanlist2.csproj.AssemblyReference.cache
+D:\Tugas Pemrog\pertemuan13\Latihanlist2\obj\Debug\net7.0\Latihanlist2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Pemrog\pertemuan13\Latihanlist2\obj\Debug\net7.0\Latihanlist2.AssemblyInfoInputs.cache
+D:\Tugas Pemrog\pertemuan13\Latihanlist2\obj\Debug\net7.0\Latihanlist2.AssemblyInfo.cs
+D:\Tugas Pemrog\pertemuan13\Latihanlist2\obj\Debug\net7.0\Latihanlist2.csproj.CoreCompileInputs.cache
+D:\Tugas Pemrog\pertemuan13\Latihanlist2\bin\Debug\net7.0\Latihanlist2.exe
+D:\Tugas Pemrog\pertemuan13\Latihanlist2\bin\Debug\net7.0\Latihanlist2.deps.json
+D:\Tugas Pemrog\pertemuan13\Latihanlist2\bin\Debug\net7.0\Latihanlist2.runtimeconfig.json
+D:\Tugas Pemrog\pertemuan13\Latihanlist2\bin\Debug\net7.0\Latihanlist2.dll
+D:\Tugas Pemrog\pertemuan13\Latihanlist2\bin\Debug\net7.0\Latihanlist2.pdb
+D:\Tugas Pemrog\pertemuan13\Latihanlist2\obj\Debug\net7.0\Latihanlist2.dll
+D:\Tugas Pemrog\pertemuan13\Latihanlist2\obj\Debug\net7.0\refint\Latihanlist2.dll
+D:\Tugas Pemrog\pertemuan13\Latihanlist2\obj\Debug\net7.0\Latihanlist2.pdb
+D:\Tugas Pemrog\pertemuan13\Latihanlist2\obj\Debug\net7.0\Latihanlist2.genruntimeconfig.cache
+D:\Tugas Pemrog\pertemuan13\Latihanlist2\obj\Debug\net7.0\ref\Latihanlist2.dll
